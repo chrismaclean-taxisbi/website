@@ -123,7 +123,7 @@ Referrer-Policy: strict-origin-when-cross-origin
 |---------|--------|--------|--------|
 | taxisbi.com | mail.protonmail.ch | mailsec.protonmail.ch | Primary |
 | taxisbi.dev | mail.protonmail.ch | mailsec.protonmail.ch | Mirrored |
-| taxisbi.io | mail.protonmail.ch | mailsec.protonmail.ch | Optional |
+| taxisbi.io | mail.protonmail.ch | mailsec.protonmail.ch | Mirrored |
 
 ---
 
