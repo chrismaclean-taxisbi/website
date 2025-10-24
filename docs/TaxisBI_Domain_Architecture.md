@@ -48,6 +48,8 @@ _Last updated: 2025-10-24_
 |------|------|--------|-------|
 | A | @ | 192.0.2.1 | 🟠 Proxied |
 | CNAME | www | taxisbi.io | 🟠 Proxied |
+| MX | @ | mail.protonmail.ch (10) | 🔘 DNS only |
+| MX | @ | mailsec.protonmail.ch (20) | 🔘 DNS only |
 
 ---
 
